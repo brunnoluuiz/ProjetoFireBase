@@ -7,7 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="orange">#FFB344</color>
-    <color name="pink">#FB528B</color>
-    <color name="pink_ligth">#F899B9</color>
+    <color name="orange">#0B88EC</color>
+    <color name="pink">#214C70</color>
+    <color name="pink_ligth">#0B0F12</color>
 </resources>
